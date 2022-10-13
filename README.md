@@ -4,6 +4,9 @@ FF -2
 # Feature-3
 FF-3
 
+# Feature -6
+FF-6
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
